@@ -5820,9 +5820,7 @@ input[type="text"]:focus,textarea:focus{
     .span12 .n-kpi-material .n-kpi-default {
         min-height: 302px !important
     }
-    .span .n-kpi-ymd {
-        padding-left: 0px !important
-    }
+    
 }
 
 
